@@ -9,6 +9,7 @@ NOTES
 | codehp | justlovesbaby@gmail.com |
 
 ***
+The content includes and is not limit:
  - JAVA
  - HADOOP
  - GIT
